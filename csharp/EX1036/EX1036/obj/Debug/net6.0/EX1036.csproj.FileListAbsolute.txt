@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\bin\Debug\net6.0\EX1036.exe
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\bin\Debug\net6.0\EX1036.deps.json
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\bin\Debug\net6.0\EX1036.runtimeconfig.json
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\bin\Debug\net6.0\EX1036.dll
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\bin\Debug\net6.0\EX1036.pdb
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\obj\Debug\net6.0\EX1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\obj\Debug\net6.0\EX1036.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\obj\Debug\net6.0\EX1036.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\obj\Debug\net6.0\EX1036.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\obj\Debug\net6.0\EX1036.dll
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\obj\Debug\net6.0\refint\EX1036.dll
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\obj\Debug\net6.0\EX1036.pdb
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\obj\Debug\net6.0\EX1036.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Exercícios\EX1036\EX1036\obj\Debug\net6.0\ref\EX1036.dll

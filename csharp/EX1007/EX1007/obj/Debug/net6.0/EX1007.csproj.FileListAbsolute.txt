@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\bin\Debug\net6.0\EX1007.exe
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\bin\Debug\net6.0\EX1007.deps.json
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\bin\Debug\net6.0\EX1007.runtimeconfig.json
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\bin\Debug\net6.0\EX1007.dll
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\bin\Debug\net6.0\EX1007.pdb
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\obj\Debug\net6.0\EX1007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\obj\Debug\net6.0\EX1007.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\obj\Debug\net6.0\EX1007.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\obj\Debug\net6.0\EX1007.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\obj\Debug\net6.0\EX1007.dll
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\obj\Debug\net6.0\refint\EX1007.dll
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\obj\Debug\net6.0\EX1007.pdb
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\obj\Debug\net6.0\EX1007.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Exercícios\EX1007\EX1007\obj\Debug\net6.0\ref\EX1007.dll
